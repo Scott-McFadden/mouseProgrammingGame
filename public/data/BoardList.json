@@ -1,0 +1,8 @@
+{
+    "boards" : [
+        { "name": "Simple Board", "fname":"board2.json" },
+        { "name": "Ready Mouse 1", "fname":"board1.json" },
+        { "name": "Test Board", "fname":"board3.json" }
+
+    ]
+}
